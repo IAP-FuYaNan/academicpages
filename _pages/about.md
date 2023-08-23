@@ -14,15 +14,15 @@ redirect_from:
 
 课题组成员
 ------
-![ ](/images/sunjianhua.png "孙建华 研究员")孙建华  研究员
+![ ](https://raw.githubusercontent.com/IAP-FuYaNan/academicpages/master/images/sunjianhua.png "孙建华 研究员")孙建华  研究员
 
-![ ](/images/fushenming.png "傅慎明 研究员")傅慎明  研究员
+![ ](https://raw.githubusercontent.com/IAP-FuYaNan/academicpages/master/images/fushenming.png "傅慎明 研究员")傅慎明  研究员
 
-![ ](/images/zhangyuanchun.png "张元春 副研究员")张元春  副研究员
+![ ](https://raw.githubusercontent.com/IAP-FuYaNan/academicpages/master/images/zhangyuanchun.png "张元春 副研究员")张元春  副研究员
 
-![ ](/images/wanghuijie.png "汪汇洁 研究助理")汪汇洁  研究助理
+![ ](https://raw.githubusercontent.com/IAP-FuYaNan/academicpages/master/images/wanghuijie.png "汪汇洁 研究助理")汪汇洁  研究助理
 
-![ ](/images/3953273590_704e3899d5_m.jpg "魏倩")魏  倩  博士研究生
+魏  倩  博士研究生
 
 ![ ](https://raw.githubusercontent.com/IAP-FuYaNan/academicpages/master/images/fuyanan.png "付亚男")付亚男  博士研究生
 
