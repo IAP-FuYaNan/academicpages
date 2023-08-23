@@ -24,7 +24,7 @@ redirect_from:
 
 ![ ](/images/3953273590_704e3899d5_m.jpg "魏倩")魏  倩  博士研究生
 
-![ ](/images/fuyanan.png "付亚男")付亚男  博士研究生
+![ ](https://raw.githubusercontent.com/IAP-FuYaNan/academicpages/master/images/fuyanan.png "付亚男")付亚男  博士研究生
 
 黄婷婷  博士研究生
 
