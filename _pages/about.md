@@ -14,7 +14,14 @@ redirect_from:
 
 课题组成员
 ------
-![ ](https://raw.githubusercontent.com/IAP-FuYaNan/academicpages/master/images/sunjianhua.png "孙建华 研究员")孙建华  研究员
+![ ](https://raw.githubusercontent.com/IAP-FuYaNan/academicpages/master/images/sunjianhua.png "孙建华 研究员")
+<style>
+  img {
+    border-radius: 50% !important;
+    border: 30px solid #eee;
+  }
+</style>
+孙建华  研究员
 
 ![ ](https://raw.githubusercontent.com/IAP-FuYaNan/academicpages/master/images/fushenming.png "傅慎明 研究员")傅慎明  研究员
 
