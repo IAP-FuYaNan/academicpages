@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Mesoscale Meteorology Research Group"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
