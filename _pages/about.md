@@ -22,7 +22,7 @@ redirect_from:
 
 ![ ](/images/wanghuijie.png "汪汇洁 研究助理")汪汇洁  研究助理
 
-魏  倩  博士研究生
+![ ](/images/3953273590_704e3899d5_m.jpg "魏倩")魏  倩  博士研究生
 
 ![ ](/images/fuyanan.png "付亚男")付亚男  博士研究生
 
